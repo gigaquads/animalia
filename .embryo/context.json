@@ -1,0 +1,670 @@
+{
+  "git_project": [
+    {
+      "embryo": {
+        "action": "hatch",
+        "name": "git_project",
+        "timestamp": 1620933194.332673
+      },
+      "remote": {
+        "name": "origin",
+        "path": "git@lib.land:notdsk/animalia.git"
+      }
+    }
+  ],
+  "project/base": [
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "project/base",
+        "timestamp": 1579736313
+      },
+      "project": {
+        "name": "animalia"
+      }
+    }
+  ],
+  "python_project/base": [
+    {
+      "description": null,
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/base",
+        "timestamp": 1579736313
+      },
+      "project": null,
+      "tagline": null,
+      "version": null
+    }
+  ],
+  "python_project/package": [
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1579963051
+      },
+      "package": null,
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1579963066
+      },
+      "package": null,
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1579963084
+      },
+      "package": {},
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580046445
+      },
+      "package": {},
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580046462
+      },
+      "package": {},
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580046479
+      },
+      "package": {
+        "build": false,
+        "push": false,
+        "test": true
+      },
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580046526
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": true
+      },
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580046537
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": true
+      },
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580046602
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": true
+      },
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580046626
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": false
+      },
+      "prod": null,
+      "test": null
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580051845
+      },
+      "package": {
+        "build": false,
+        "push": false,
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580051871
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580051925
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580051952
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580052179
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580052190
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580052295
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580052324
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580052538
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580052888
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057149
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057370
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057378
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057406
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057423
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057634
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057641
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580057981
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "testpypi",
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058125
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058180
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058184
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058194
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058200
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058212
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "repository": "blahblah",
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058245
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058254
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058373
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": false
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058564
+      },
+      "package": {
+        "build": true,
+        "push": false,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058568
+      },
+      "package": {}
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058575
+      },
+      "package": {
+        "build": false,
+        "push": false,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058659
+      },
+      "package": {}
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058676
+      },
+      "package": {
+        "build": true,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058681
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580058700
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580059024
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580059030
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": true
+      }
+    },
+    {
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/package",
+        "timestamp": 1580059044
+      },
+      "package": {
+        "build": false,
+        "push": true,
+        "test": false
+      }
+    }
+  ],
+  "python_project/setup": [
+    {
+      "config": null,
+      "embryo": {
+        "action": "hatch",
+        "destination": "/home/jeff/src/animalia",
+        "name": "python_project/setup",
+        "timestamp": 1579736314
+      },
+      "metadata": null,
+      "options": null,
+      "project": null
+    }
+  ]
+}
