@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
-
-
-
+from animalia import SpeciesNameGenerator
 from appyratus.cli import (
     CliProgram,
     OptionalArg,
     PositionalArg,
 )
 
-from animalia import SpeciesNameGenerator
 
 class AnimaliaProgram(CliProgram):
+
     def args(self):
         return [
             PositionalArg('action'),
             OptionalArg('count', default=1, dtype=int),
         ]
 
+
 def main():
+
     def call_action(program):
         cli_args = program.cli_args
         action = cli_args.action
@@ -30,10 +30,6 @@ def main():
 
     program = AnimaliaProgram(perform=call_action)
     program.run()
-
-
-
-
 
 
 if __name__ == '__main__':
