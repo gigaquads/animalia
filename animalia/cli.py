@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from animalia import SpeciesNameGenerator
 from appyratus.cli import (
     CliProgram,
@@ -16,7 +15,7 @@ class AnimaliaProgram(CliProgram):
         ]
 
 
-def main():
+def execute_from_command_line():
 
     def call_action(program):
         cli_args = program.cli_args
