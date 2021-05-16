@@ -2,4 +2,8 @@
 # encoding=utf-8
 from setuptools import setup
 if __name__ == '__main__':
-    setup()
+    setup(
+    #package_dir={'animalia': 'animalia'},
+    #package_data={'animalia': ['data/*.txt']},
+    #include_package_data=True,
+    )
