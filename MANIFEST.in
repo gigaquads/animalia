@@ -1,3 +1,11 @@
-include *.md
-include *.txt
-include data/species.txt
+graft animalia
+global-exclude *.py[cod] __pycache__ *.so
+#include *.txt
+#recursive-include examples *.txt *.py
+#include *.py
+#graft data
+#recursive-exclude */*.egg-info *
+#include *.md
+#include *.txt
+#include data/species.txt
+#recursive-include data *.txt

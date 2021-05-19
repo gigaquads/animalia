@@ -68,10 +68,3 @@ class SpeciesNameGenerator:
             new_name = ' '.join(name1_parts[:-1] + [name2_parts[-1]])
 
         return new_name
-
-
-if __name__ == '__main__':
-    # generate 100 new names
-    species = SpeciesNameGenerator('species.txt')
-    for name in species.generate(count=100):
-        p
