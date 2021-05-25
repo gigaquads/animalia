@@ -10,7 +10,11 @@ class AnimaliaProgram(CliProgram):
 
     def args(self):
         return [
-            PositionalArg('action'),
+            PositionalArg(
+                'action',
+                usage='what do you want to do?',
+                choices=['generate-species-name'],
+            ),
             OptionalArg('count', default=1, dtype=int),
         ]
 

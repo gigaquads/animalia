@@ -1,6 +1,7 @@
 graft animalia
+#graft data
 global-exclude *.py[cod] __pycache__ *.so
-#include *.txt
+include *.txt
 #recursive-include examples *.txt *.py
 #include *.py
 #graft data
