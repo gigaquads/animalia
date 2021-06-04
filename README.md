@@ -51,3 +51,6 @@ You can read more about it in the provided data source located in `animalia/data
 
 - Jeff Doss <notdsk@gmail.com>
 - Daniel Gabriele <dg0offset@gmail.com>
+
+## License
+animalia is released under the MIT License. See the bundled LICENSE file for details.
